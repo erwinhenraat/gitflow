@@ -1,1 +1,1 @@
-console.log("count the days");
+console.log("Count the days!");
